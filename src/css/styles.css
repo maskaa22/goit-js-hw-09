@@ -8,6 +8,14 @@ ul {
   list-style: none;
 }
 
+.link {
+  font-size: 20px;
+  padding: 20px;
+}
+.item-link {
+  margin: 20px 0;
+}
+
 .gallery {
   display: flex;
   flex-wrap: wrap;
